@@ -1,0 +1,26 @@
+  div.border > div {
+    border: 1px solid black;
+    min-height: 120px;
+  }
+  div.smaller > div {
+    min-height: 30px;
+  }
+  div.cs {
+    background-color: pink;
+  }
+div.container {
+  margin:auto !important;
+}
+.container{
+  background-color: rgba(140,140,140,.5);\
+  font-family: 'Big Shoulders Text', cursive;
+}
+.lunch{
+    font-family: 'Mansalva', cursive;
+}
+a:hover {
+  font-size: 100px;
+}
+a:link {
+  color:green;
+}
